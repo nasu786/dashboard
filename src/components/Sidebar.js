@@ -5,7 +5,7 @@ export default function Sidebar() {
     <div className="container">
       <header className="head">
         <img src="./Images/logo.jpg" alt='' />
-        <h1>Borex</h1>
+        <h1>Borex7</h1>
       </header>
       <div className="home">
         <h4>Home</h4>
